@@ -9,6 +9,6 @@ npm run start
 
 Nota: Valida nota de version para configurar archivo 
 ```
-script: json-server --watch db.json --port 3001
+script: node src/server.js
 ```
 
