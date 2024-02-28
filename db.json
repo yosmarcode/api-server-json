@@ -1,0 +1,21 @@
+{
+  "dataUser": [
+    {
+      "id": "1",
+      "fullName": "Yosmar Hinestroza",
+      "descriptions": "Programador de Software en Javascript",
+      "email": "yosmarpc@gmail.com",
+      "phone": "973333123",
+      "avatar": "https://yt3.ggpht.com/QBGm9M6S328DttkbBHj1C_0y_xuN6GI_-VUgz46_x8oqeRhrJvrEmjIQAyjOiYcqtbBFn0cs=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "2",
+      "fullName": "Jose Perez",
+      "descriptions": "Backend developers",
+      "email": "joseperez@gmail.com",
+      "phone": "973333123",
+      "avatar": "https://yt3.ggpht.com/QBGm9M6S328DttkbBHj1C_0y_xuN6GI_-VUgz46_x8oqeRhrJvrEmjIQAyjOiYcqtbBFn0cs=s176-c-k-c0x00ffffff-no-rj"
+    }
+ 
+  ]
+}

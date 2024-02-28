@@ -1,0 +1,29 @@
+meta {
+  name: CREATE
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:3004/dataUser
+  body: json
+  auth: none
+}
+
+body:json {
+    {
+      "id": {{uuid}},
+      "email": "yosmarpc@gmail.com",
+      "first_name": "Yosmar",
+      "last_name": "Hinestroza",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg"
+    }
+}
+
+vars:pre-request {
+  uuid: {{uuid}}
+}
+
+script:pre-request {
+  bru.setVar('uuid', require("uuid").v4());
+}
