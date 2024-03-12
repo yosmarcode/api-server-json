@@ -9,36 +9,20 @@
       "avatar": "https://yt3.ggpht.com/QBGm9M6S328DttkbBHj1C_0y_xuN6GI_-VUgz46_x8oqeRhrJvrEmjIQAyjOiYcqtbBFn0cs=s176-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "2",
-      "fullName": "Jose Perez",
-      "descriptions": "Backend developers",
-      "email": "joseperez@gmail.com",
-      "phone": "973333123",
-      "avatar": "https://yt3.ggpht.com/QBGm9M6S328DttkbBHj1C_0y_xuN6GI_-VUgz46_x8oqeRhrJvrEmjIQAyjOiYcqtbBFn0cs=s176-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "fullName": "Isaac David",
-      "descriptions": "Descripcion",
-      "avatar": "https://yt3.ggpht.com/QBGm9M6S328DttkbBHj1C_0y_xuN6GI_-VUgz46_x8oqeRhrJvrEmjIQAyjOiYcqtbBFn0cs=s176-c-k-c0x00ffffff-no-rj",
-      "phone": "12345670",
-      "email": "example@example.com",
-      "id": "IeH8fJ7"
-    },
-    {
-      "fullName": "",
-      "descriptions": "",
-      "avatar": "",
-      "phone": "",
-      "email": "yosmarpc@gm",
-      "id": "KvX_Qoa"
-    },
-    {
       "fullName": "Isabella Valentina",
       "descriptions": "",
       "avatar": "https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
       "phone": "987868767",
       "email": "example@example.com",
       "id": "yezDYmp"
+    },
+    {
+      "fullName": "Silvia Teran",
+      "descriptions": "",
+      "avatar": "https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+      "phone": "1242728272",
+      "email": "example@example.com",
+      "id": "8yhGNt0"
     }
   ]
 }
